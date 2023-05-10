@@ -1,4 +1,4 @@
-
+# Data
 311_CSR_SW.xlsx
 
 # Byte-compiled / optimized / DLL files
@@ -130,6 +130,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+bdft
 
 # Spyder project settings
 .spyderproject
