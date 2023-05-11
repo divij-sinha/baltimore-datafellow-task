@@ -17,7 +17,4 @@ Imagine that you are an Analyst within the Bureau of Solid Waste. Please write a
  - The memo should be no longer than 2 pages in total.
  - You should be prepared to discuss your analysis and the memo during your interview.
  - Completed memos should be sent to the following email addresses within 72 hours of the candidate having received these instructions:
-    - dan.hymowitz@baltimorecity.gov
-    - belinda.harris@baltimorecity.gov
-    - april.welch@baltimorecity.gov
- - Any questions about these instructions or this exercise should be directed to both april.welch@baltimorecity.gov and belinda.harris@baltimorecity.gov.
+ - Any questions about these instructions or this exercise should be directed to both 
